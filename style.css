@@ -1,0 +1,28 @@
+body {
+    color: black;
+    background-color: white;
+}
+
+.jumbotron {
+    background-image: url("Images/microbes.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: aliceblue;
+}
+
+.panel-primary
+{
+    font-family: inherit; 
+    font-size: 1rem;
+    background-color: aliceblue
+}
+
+.row
+{
+    background-color: paleturquoise
+}
+
+.container1
+{
+    background-color: white,    
+}
