@@ -148,7 +148,7 @@ function buildCharts(sample) {
       var names = nameArray[0];
       console.log(names);
 
-      var wfreqValue = names.wfreq;
+      var wfreqValue = parseFloat(names.wfreq);
       console.log(wfreqValue);
     // 4. Create the trace for the gauge chart.
 
